@@ -33,8 +33,6 @@
     HeadTop: MobHumanoidAnyMarking
     HeadSide: MobHumanoidAnyMarking
     Tail: MobHumanoidAnyMarking
-    Hair: MobHumanoidMarkingMatchSkin
-    FacialHair: MobHumanoidMarkingMatchSkin
     Eyes: MobHumanoidAnyMarking
     Chest: MobIPCTorso
     Underwear: MobHumanoidAnyMarking
