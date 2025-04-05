@@ -38,7 +38,7 @@ public sealed class HumanoidAppearanceSystem : SharedHumanoidAppearanceSystem
         component.Height = height;
         component.Width = width;
 
-        sprite.Scale = new Vector2(width, height);
+        /*sprite.Scale = new Vector2(width, height);*/
 
         sprite[sprite.LayerMapReserveBlank(HumanoidVisualLayers.Eyes)].Color = component.EyeColor;
     }
