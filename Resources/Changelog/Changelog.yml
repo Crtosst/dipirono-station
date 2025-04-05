@@ -14432,3 +14432,33 @@ Entries:
   id: 7096
   time: '2025-04-04T19:09:06.0000000+00:00'
   url: https://github.com/Simple-Station/Einstein-Engines/pull/2156
+- author: ilmenwe
+  changes:
+    - type: Remove
+      message: double references in code
+    - type: Remove
+      message: unused references in code that had double references.
+  id: 7097
+  time: '2025-04-05T13:17:37.0000000+00:00'
+  url: https://github.com/Simple-Station/Einstein-Engines/pull/2163
+- author: GNUtopia
+  changes:
+    - type: Fix
+      message: Added missing announcement text to space goldfish spawn event
+  id: 7098
+  time: '2025-04-05T14:56:57.0000000+00:00'
+  url: https://github.com/Simple-Station/Einstein-Engines/pull/2160
+- author: SleepyScarecrow
+  changes:
+    - type: Fix
+      message: Fixed penlights.
+  id: 7099
+  time: '2025-04-05T15:00:11.0000000+00:00'
+  url: https://github.com/Simple-Station/Einstein-Engines/pull/2139
+- author: dootythefrooty
+  changes:
+    - type: Add
+      message: Added The Hive back to rotation.
+  id: 7100
+  time: '2025-04-05T15:06:59.0000000+00:00'
+  url: https://github.com/Simple-Station/Einstein-Engines/pull/2108
